@@ -1,0 +1,558 @@
+ID	country	age	sex	region
+X4489419.3	Venezuela	12	female	noneuropean
+X4489694.3	United States of America	14	female	western
+X4489817.3	Malawi	1.3	female	noneuropean
+X4489730.3	United States of America	49	female	western
+X4489640.3	United States of America	44	female	western
+X4489857.3	Malawi	21	female	noneuropean
+X4489400.3	Venezuela	60	female	noneuropean
+X4489354.3	Venezuela	1.5	unknown	noneuropean
+X4489848.3	Malawi	unknown	unknown	noneuropean
+X4489740.3	United States of America	14	male	western
+X4489725.3	United States of America	54	male	western
+X4489879.3	Malawi	0.93	female	noneuropean
+X4489518.3	United States of America	0.08	male	western
+X4489782.3	United States of America	16	female	western
+X4489483.3	United States of America	26	female	western
+X4489799.3	United States of America	44	female	western
+X4489493.3	United States of America	0.83	female	western
+X4489528.3	United States of America	0.67	female	western
+X4489837.3	Malawi	2.65	female	noneuropean
+X4489525.3	United States of America	0.58	female	western
+X4489766.3	United States of America	16	male	western
+X4489658.3	United States of America	50	female	western
+X4489503.3	United States of America	45	female	western
+X4489369.3	Venezuela	11	unknown	noneuropean
+X4489858.3	Malawi	0.56	female	noneuropean
+X4489466.3	United States of America	unknown	female	western
+X4489870.3	Malawi	unknown	unknown	noneuropean
+X4489598.3	United States of America	50	female	western
+X4489589.3	United States of America	16	male	western
+X4489619.3	United States of America	50	male	western
+X4489759.3	United States of America	53	male	western
+X4489739.3	United States of America	45	female	western
+X4489881.3	Malawi	0.95	male	noneuropean
+X4489842.3	Malawi	34	female	noneuropean
+X4489698.3	United States of America	16	female	western
+X4489852.3	Malawi	32	female	noneuropean
+X4489449.3	United States of America	23	female	western
+X4489677.3	United States of America	14	female	western
+X4489594.3	United States of America	13	male	western
+X4489464.3	United States of America	25	female	western
+X4489702.3	United States of America	15	male	western
+X4489365.3	Venezuela	7	unknown	noneuropean
+X4489750.3	United States of America	15	male	western
+X4489488.3	United States of America	4.5	female	western
+X4489726.3	United States of America	47	female	western
+X4489738.3	United States of America	46	male	western
+X4489585.3	United States of America	48	male	western
+X4489385.3	Venezuela	11	female	noneuropean
+X4489403.3	Venezuela	0.33	female	noneuropean
+X4489843.3	Malawi	unknown	unknown	noneuropean
+X4489352.3	Venezuela	1.17	female	noneuropean
+X4489704.3	United States of America	42	female	western
+X4489903.3	Malawi	27	female	noneuropean
+X4489719.3	United States of America	17	male	western
+X4489538.3	United States of America	0.08	male	western
+X4489590.3	United States of America	11	male	western
+X4489521.3	United States of America	0.5	female	western
+X4489428.3	Venezuela	20	female	noneuropean
+X4489458.3	United States of America	25	female	western
+X4489413.3	Venezuela	1	male	noneuropean
+X4489433.3	Venezuela	2	male	noneuropean
+X4489542.3	United States of America	0.25	female	western
+X4489502.3	United States of America	7	female	western
+X4489764.3	United States of America	41	female	western
+X4489523.3	United States of America	0.5	female	western
+X4489443.3	Venezuela	38	female	noneuropean
+X4489863.3	Malawi	unknown	unknown	noneuropean
+X4489539.3	United States of America	0.08	male	western
+X4489912.3	Malawi	0.76	male	noneuropean
+X4489447.3	Venezuela	29	female	noneuropean
+X4489504.3	United States of America	9	female	western
+X4489925.3	Malawi	16.72	female	noneuropean
+X4489359.3	Venezuela	0.25	male	noneuropean
+X4489608.3	United States of America	14	male	western
+X4489515.3	United States of America	1	male	western
+X4489684.3	United States of America	14	female	western
+X4489432.3	Venezuela	0.5	female	noneuropean
+X4489838.3	Malawi	2.65	female	noneuropean
+X4489896.3	Malawi	unknown	unknown	noneuropean
+X4489627.3	United States of America	9	male	western
+X4489560.3	United States of America	14	female	western
+X4489847.3	Malawi	unknown	female	noneuropean
+X4489647.3	United States of America	14	male	western
+X4489591.3	United States of America	46	male	western
+X4489392.3	Venezuela	14	female	noneuropean
+X4489775.3	United States of America	16	male	western
+X4489487.3	United States of America	1.3	male	western
+X4489377.3	Venezuela	74	male	noneuropean
+X4489402.3	Venezuela	4	male	noneuropean
+X4489444.3	Venezuela	10	male	noneuropean
+X4489794.3	United States of America	46	male	western
+X4489456.3	United States of America	57	female	western
+X4489773.3	United States of America	41	female	western
+X4489868.3	Malawi	0.19	male	noneuropean
+X4489621.3	United States of America	14	male	western
+X4489507.3	United States of America	36	female	western
+X4489836.3	Malawi	33	female	noneuropean
+X4489592.3	United States of America	42	female	western
+X4489535.3	United States of America	0.42	female	western
+X4489712.3	United States of America	16	female	western
+X4489818.3	Malawi	26	female	noneuropean
+X4489367.3	Venezuela	9	unknown	noneuropean
+X4489855.3	Malawi	1.35	female	noneuropean
+X4489425.3	Venezuela	4	male	noneuropean
+X4489751.3	United States of America	52	male	western
+X4489809.3	United States of America	46	male	western
+X4489603.3	United States of America	14	male	western
+X4489543.3	United States of America	0.17	female	western
+X4489383.3	Venezuela	6	male	noneuropean
+X4489675.3	United States of America	52	female	western
+X4489891.3	Malawi	1.89	male	noneuropean
+X4489508.3	United States of America	6	female	western
+X4489611.3	United States of America	41	male	western
+X4489440.3	Venezuela	24	female	noneuropean
+X4489679.3	United States of America	14	female	western
+X4489616.3	United States of America	50	female	western
+X4489357.3	Venezuela	3	female	noneuropean
+X4489561.3	United States of America	14	female	western
+X4489814.3	Malawi	1.53	female	noneuropean
+X4489576.3	United States of America	47	female	western
+X4489737.3	United States of America	15	female	western
+X4489845.3	Malawi	0.21	male	noneuropean
+X4489473.3	United States of America	28	female	western
+X4489749.3	United States of America	15	male	western
+X4489597.3	United States of America	14	male	western
+X4489418.3	Venezuela	11	female	noneuropean
+X4489470.3	United States of America	30	female	western
+X4489723.3	United States of America	15	female	western
+X4489533.3	United States of America	0.92	male	western
+X4489363.3	Venezuela	6	female	noneuropean
+X4489613.3	United States of America	15	male	western
+X4489427.3	Venezuela	21	female	noneuropean
+X4489564.3	United States of America	16	male	western
+X4489351.3	Venezuela	1	unknown	noneuropean
+X4489495.3	United States of America	3	female	western
+X4489902.3	Malawi	2.05	female	noneuropean
+X4489379.3	Venezuela	3	female	noneuropean
+X4489678.3	United States of America	41	female	western
+X4489744.3	United States of America	14	female	western
+X4489486.3	United States of America	33	female	western
+X4489922.3	Malawi	24.03	female	noneuropean
+X4489783.3	United States of America	16	male	western
+X4489886.3	Malawi	0.05	male	noneuropean
+X4489745.3	United States of America	14	female	western
+X4489410.3	Venezuela	unknown	female	noneuropean
+X4489819.3	Malawi	0.43	male	noneuropean
+X4489364.3	Venezuela	7	unknown	noneuropean
+X4489553.3	United States of America	0.33	male	western
+X4489467.3	United States of America	24	female	western
+X4489854.3	Malawi	1.35	female	noneuropean
+X4489361.3	Venezuela	4	unknown	noneuropean
+X4489398.3	Venezuela	37	female	noneuropean
+X4489465.3	United States of America	25	female	western
+X4489763.3	United States of America	41	male	western
+X4489853.3	Malawi	unknown	unknown	noneuropean
+X4489732.3	United States of America	15	female	western
+X4489768.3	United States of America	44	male	western
+X4489404.3	Venezuela	0.917	female	noneuropean
+X4489468.3	United States of America	24	female	western
+X4489701.3	United States of America	39	female	western
+X4489423.3	Venezuela	0.417	female	noneuropean
+X4489909.3	Malawi	1.89	male	noneuropean
+X4489405.3	Venezuela	0.75	male	noneuropean
+X4489755.3	United States of America	57	male	western
+X4489802.3	United States of America	13	male	western
+X4489767.3	United States of America	9	male	western
+X4489622.3	United States of America	14	male	western
+X4489652.3	United States of America	14	male	western
+X4489573.3	United States of America	13	male	western
+X4489461.3	United States of America	27	female	western
+X4489742.3	United States of America	45	male	western
+X4489920.3	Malawi	2.02	female	noneuropean
+X4489355.3	Venezuela	1.67	male	noneuropean
+X4489477.3	United States of America	unknown	female	western
+X4489409.3	Venezuela	2	male	noneuropean
+X4489727.3	United States of America	15	male	western
+X4489778.3	United States of America	16	female	western
+X4489382.3	Venezuela	5	male	noneuropean
+X4489687.3	United States of America	14	female	western
+X4489692.3	United States of America	16	male	western
+X4489520.3	United States of America	0.42	male	western
+X4489753.3	United States of America	16	male	western
+X4489892.3	Malawi	unknown	unknown	noneuropean
+X4489537.3	United States of America	0.08	male	western
+X4489469.3	United States of America	unknown	female	western
+X4489510.3	United States of America	1	male	western
+X4489396.3	Venezuela	22	female	noneuropean
+X4489644.3	United States of America	7	female	western
+X4489706.3	United States of America	13	female	western
+X4489798.3	United States of America	10	female	western
+X4489414.3	Venezuela	5	male	noneuropean
+X4489695.3	United States of America	14	male	western
+X4489823.3	Malawi	unknown	unknown	noneuropean
+X4489376.3	Venezuela	66	female	noneuropean
+X4489600.3	United States of America	15	male	western
+X4489549.3	United States of America	0.25	female	western
+X4489688.3	United States of America	35	female	western
+X4489485.3	United States of America	1.25	female	western
+X4489714.3	United States of America	16	female	western
+X4489497.3	United States of America	5	female	western
+X4489832.3	Malawi	1.22	male	noneuropean
+X4489898.3	Malawi	0.6	male	noneuropean
+X4489757.3	United States of America	16	female	western
+X4489815.3	Malawi	24	female	noneuropean
+X4489624.3	United States of America	14	female	western
+X4489910.3	Malawi	25	female	noneuropean
+X4489417.3	Venezuela	12	female	noneuropean
+X4489628.3	United States of America	44	male	western
+X4489529.3	United States of America	0.75	male	western
+X4489705.3	United States of America	13	female	western
+X4489506.3	United States of America	1	male	western
+X4489581.3	United States of America	49	female	western
+X4489746.3	United States of America	7	male	western
+X4489384.3	Venezuela	9	female	noneuropean
+X4489550.3	United States of America	0.25	female	western
+X4489407.3	Venezuela	1	male	noneuropean
+X4489831.3	Malawi	1.22	male	noneuropean
+X4489496.3	United States of America	40	female	western
+X4489729.3	United States of America	49	male	western
+X4489435.3	Venezuela	1	female	noneuropean
+X4489607.3	United States of America	43	female	western
+X4489685.3	United States of America	41	female	western
+X4489765.3	United States of America	16	male	western
+X4489901.3	Malawi	2.05	female	noneuropean
+X4489424.3	Venezuela	2	male	noneuropean
+X4489577.3	United States of America	14	male	western
+X4489790.3	United States of America	15	female	western
+X4489769.3	United States of America	44	female	western
+X4489517.3	United States of America	0.08	male	western
+X4489866.3	Malawi	33	female	noneuropean
+X4489522.3	United States of America	0.5	female	western
+X4489816.3	Malawi	unknown	unknown	noneuropean
+X4489604.3	United States of America	14	male	western
+X4489878.3	Malawi	0.93	female	noneuropean
+X4489601.3	United States of America	9	male	western
+X4489671.3	United States of America	13	male	western
+X4489672.3	United States of America	47	female	western
+X4489696.3	United States of America	40	male	western
+X4489353.3	Venezuela	1.17	female	noneuropean
+X4489556.3	United States of America	0.42	female	western
+X4489501.3	United States of America	5	female	western
+X4489733.3	United States of America	10	male	western
+X4489890.3	Malawi	23	female	noneuropean
+X4489430.3	Venezuela	33	female	noneuropean
+X4489571.3	United States of America	43	female	western
+X4489389.3	Venezuela	11	male	noneuropean
+X4489887.3	Malawi	unknown	female	noneuropean
+X4489894.3	Malawi	0.94	female	noneuropean
+X4489673.3	United States of America	16	female	western
+X4489480.3	United States of America	25	female	western
+X4489426.3	Venezuela	38	female	noneuropean
+X4489736.3	United States of America	15	female	western
+X4489689.3	United States of America	8	female	western
+X4489450.3	United States of America	23	female	western
+X4489877.3	Malawi	44	female	noneuropean
+X4489718.3	United States of America	45	female	western
+X4489505.3	United States of America	44	female	western
+X4489568.3	United States of America	13	female	western
+X4489438.3	Venezuela	2	female	noneuropean
+X4489491.3	United States of America	3	female	western
+X4489429.3	Venezuela	unknown	female	noneuropean
+X4489499.3	United States of America	6	male	western
+X4489862.3	Malawi	unknown	female	noneuropean
+X4489360.3	Venezuela	15	female	noneuropean
+X4489596.3	United States of America	14	male	western
+X4489924.3	Malawi	16.72	female	noneuropean
+X4489899.3	Malawi	unknown	female	noneuropean
+X4489893.3	Malawi	0.94	female	noneuropean
+X4489735.3	United States of America	42	female	western
+X4489860.3	Malawi	unknown	female	noneuropean
+X4489743.3	United States of America	48	female	western
+X4489776.3	United States of America	54	male	western
+X4489911.3	Malawi	unknown	unknown	noneuropean
+X4489623.3	United States of America	43	female	western
+X4489595.3	United States of America	43	female	western
+X4489771.3	United States of America	14	female	western
+X4489372.3	Venezuela	1	female	noneuropean
+X4489833.3	Malawi	unknown	female	noneuropean
+X4489459.3	United States of America	25	female	western
+X4489900.3	Malawi	unknown	unknown	noneuropean
+X4489835.3	Malawi	2.21	female	noneuropean
+X4489780.3	United States of America	57	male	western
+X4489566.3	United States of America	46	female	western
+X4489781.3	United States of America	55	female	western
+X4489916.3	Malawi	1.25	female	noneuropean
+X4489690.3	United States of America	16	female	western
+X4489545.3	United States of America	0.17	female	western
+X4489774.3	United States of America	16	male	western
+X4489895.3	Malawi	27	female	noneuropean
+X4489454.3	United States of America	28	female	western
+X4489620.3	United States of America	49	female	western
+X4489420.3	Venezuela	11	male	noneuropean
+X4489615.3	United States of America	50	male	western
+X4489373.3	Venezuela	45	unknown	noneuropean
+X4489439.3	Venezuela	1	male	noneuropean
+X4489606.3	United States of America	49	male	western
+X4489475.3	United States of America	26	female	western
+X4489804.3	United States of America	37	male	western
+X4489563.3	United States of America	16	female	western
+X4489889.3	Malawi	0.39	female	noneuropean
+X4489599.3	United States of America	15	female	western
+X4489795.3	United States of America	49	female	western
+X4489812.3	United States of America	16	male	western
+X4489772.3	United States of America	45	male	western
+X4489839.3	Malawi	20	female	noneuropean
+X4489498.3	United States of America	24	female	western
+X4489796.3	United States of America	15	female	western
+X4489907.3	Malawi	26	female	noneuropean
+X4489917.3	Malawi	1.25	female	noneuropean
+X4489512.3	United States of America	1	female	western
+X4489453.3	United States of America	28	female	western
+X4489851.3	Malawi	2.02	male	noneuropean
+X4489722.3	United States of America	54	female	western
+X4489492.3	United States of America	1.6	male	western
+X4489834.3	Malawi	2.21	female	noneuropean
+X4489864.3	Malawi	0.67	male	noneuropean
+X4489478.3	United States of America	unknown	female	western
+X4489686.3	United States of America	14	female	western
+X4489546.3	United States of America	0.17	female	western
+X4489530.3	United States of America	0.75	male	western
+X4489820.3	Malawi	0.43	male	noneuropean
+X4489481.3	United States of America	unknown	female	western
+X4489747.3	United States of America	44	male	western
+X4489368.3	Venezuela	9	unknown	noneuropean
+X4489562.3	United States of America	46	female	western
+X4489394.3	Venezuela	53	male	noneuropean
+X4489451.3	United States of America	23	female	western
+X4489883.3	Malawi	24	female	noneuropean
+X4489859.3	Malawi	0.56	female	noneuropean
+X4489876.3	Malawi	0.8	female	noneuropean
+X4489915.3	Malawi	unknown	unknown	noneuropean
+X4489349.3	Venezuela	0.5	unknown	noneuropean
+X4489788.3	United States of America	48	male	western
+X4489856.3	Malawi	0.03	female	noneuropean
+X4489793.3	United States of America	2	female	western
+X4489674.3	United States of America	16	male	western
+X4489374.3	Venezuela	49	unknown	noneuropean
+X4489777.3	United States of America	50	female	western
+X4489841.3	Malawi	0.44	male	noneuropean
+X4489785.3	United States of America	43	female	western
+X4489874.3	Malawi	unknown	unknown	noneuropean
+X4489574.3	United States of America	13	male	western
+X4489670.3	United States of America	13	male	western
+X4489509.3	United States of America	29	female	western
+X4489462.3	United States of America	27	female	western
+X4489445.3	Venezuela	83.2	male	noneuropean
+X4489822.3	Malawi	38	female	noneuropean
+X4489807.3	United States of America	15	male	western
+X4489923.3	Malawi	unknown	unknown	noneuropean
+X4489869.3	Malawi	23	female	noneuropean
+X4489584.3	United States of America	14	male	western
+X4489516.3	United States of America	33	female	western
+X4489703.3	United States of America	15	male	western
+X4489612.3	United States of America	39	female	western
+X4489559.3	United States of America	54	female	western
+X4489721.3	United States of America	46	male	western
+X4489669.3	United States of America	46	female	western
+X4489808.3	United States of America	10	male	western
+X4489605.3	United States of America	30	female	western
+X4489811.3	United States of America	16	female	western
+X4489748.3	United States of America	42	female	western
+X4489904.3	Malawi	unknown	unknown	noneuropean
+X4489625.3	United States of America	14	female	western
+X4489754.3	United States of America	16	male	western
+X4489587.3	United States of America	49	female	western
+X4489401.3	Venezuela	40	female	noneuropean
+X4489770.3	United States of America	14	female	western
+X4489806.3	United States of America	15	male	western
+X4489397.3	Venezuela	24	female	noneuropean
+X4489436.3	Venezuela	1	male	noneuropean
+X4489813.3	Malawi	1.53	female	noneuropean
+X4489626.3	United States of America	11	male	western
+X4489762.3	United States of America	15	female	western
+X4489527.3	United States of America	0.67	female	western
+X4489734.3	United States of America	44	male	western
+X4489452.3	United States of America	23	female	western
+X4489849.3	Malawi	2.02	male	noneuropean
+X4489358.3	Venezuela	4	unknown	noneuropean
+X4489846.3	Malawi	0.21	male	noneuropean
+X4489761.3	United States of America	15	female	western
+X4489434.3	Venezuela	31	female	noneuropean
+X4489676.3	United States of America	14	female	western
+X4489386.3	Venezuela	11	male	noneuropean
+X4489844.3	Malawi	0.21	male	noneuropean
+X4489728.3	United States of America	15	male	western
+X4489388.3	Venezuela	18	female	noneuropean
+X4489362.3	Venezuela	5	unknown	noneuropean
+X4489664.3	United States of America	16	male	western
+X4489871.3	Malawi	0.11	female	noneuropean
+X4489867.3	Malawi	0.19	male	noneuropean
+X4489411.3	Venezuela	0.417	female	noneuropean
+X4489463.3	United States of America	unknown	female	western
+X4489683.3	United States of America	14	female	western
+X4489850.3	Malawi	2.02	female	noneuropean
+X4489919.3	Malawi	unknown	unknown	noneuropean
+X4489897.3	Malawi	0.6	male	noneuropean
+X4489724.3	United States of America	15	female	western
+X4489371.3	Venezuela	35	female	noneuropean
+X4489828.3	Malawi	2.39	female	noneuropean
+X4489482.3	United States of America	26	female	western
+X4489758.3	United States of America	16	male	western
+X4489544.3	United States of America	0.17	female	western
+X4489554.3	United States of America	0.33	male	western
+X4489680.3	United States of America	14	female	western
+X4489393.3	Venezuela	29	female	noneuropean
+X4489741.3	United States of America	14	male	western
+X4489437.3	Venezuela	20	female	noneuropean
+X4489708.3	United States of America	52	male	western
+X4489431.3	Venezuela	66	male	noneuropean
+X4489421.3	Venezuela	38	female	noneuropean
+X4489575.3	United States of America	48	male	western
+X4489380.3	Venezuela	4	male	noneuropean
+X4489865.3	Malawi	0.67	male	noneuropean
+X4489375.3	Venezuela	56	female	noneuropean
+X4489415.3	Venezuela	4	male	noneuropean
+X4489547.3	United States of America	0.25	male	western
+X4489416.3	Venezuela	11	male	noneuropean
+X4489471.3	United States of America	30	female	western
+X4489830.3	Malawi	unknown	unknown	noneuropean
+X4489479.3	United States of America	25	female	western
+X4489399.3	Venezuela	23	female	noneuropean
+X4489513.3	United States of America	35	female	western
+X4489921.3	Malawi	2.02	female	noneuropean
+X4489387.3	Venezuela	73	female	noneuropean
+X4489789.3	United States of America	47	female	western
+X4489390.3	Venezuela	60	female	noneuropean
+X4489514.3	United States of America	1	female	western
+X4489682.3	United States of America	47	female	western
+X4489882.3	Malawi	0.95	male	noneuropean
+X4489801.3	United States of America	47	female	western
+X4489792.3	United States of America	15	female	western
+X4489540.3	United States of America	0.08	male	western
+X4489588.3	United States of America	16	female	western
+X4489366.3	Venezuela	8	unknown	noneuropean
+X4489460.3	United States of America	53	female	western
+X4489926.3	Malawi	unknown	female	noneuropean
+X4489805.3	United States of America	35	female	western
+X4489602.3	United States of America	43	female	western
+X4489489.3	United States of America	6	female	western
+X4489406.3	Venezuela	3	male	noneuropean
+X4489490.3	United States of America	3	male	western
+X4489784.3	United States of America	47	male	western
+X4489861.3	Malawi	unknown	unknown	noneuropean
+X4489570.3	United States of America	45	male	western
+X4489350.3	Venezuela	1	male	noneuropean
+X4489532.3	United States of America	0.92	male	western
+X4489821.3	Malawi	unknown	unknown	noneuropean
+X4489381.3	Venezuela	28	female	noneuropean
+X4489541.3	United States of America	0.25	female	western
+X4489797.3	United States of America	15	female	western
+X4489906.3	Malawi	1.7	male	noneuropean
+X4489884.3	Malawi	unknown	unknown	noneuropean
+X4489511.3	United States of America	26	female	western
+X4489617.3	United States of America	15	male	western
+X4489660.3	United States of America	16	female	western
+X4489531.3	United States of America	0.75	female	western
+X4489760.3	United States of America	48	female	western
+X4489552.3	United States of America	0.33	female	western
+X4489395.3	United States of America	0.42	male	western
+X4489918.3	Malawi	24	female	noneuropean
+X4489448.3	Venezuela	60	male	noneuropean
+X4489756.3	United States of America	50	female	western
+X4489905.3	Malawi	1.7	male	noneuropean
+X4489880.3	Malawi	32	female	noneuropean
+X4489717.3	United States of America	44	male	western
+X4489709.3	United States of America	51	female	western
+X4489908.3	Malawi	1.89	male	noneuropean
+X4489826.3	Malawi	unknown	unknown	noneuropean
+X4489720.3	United States of America	17	male	western
+X4489441.3	Venezuela	4	male	noneuropean
+X4489885.3	Malawi	0.05	male	noneuropean
+X4489555.3	United States of America	0.42	female	western
+X4489610.3	United States of America	3	male	western
+X4489913.3	Malawi	0.76	male	noneuropean
+X4489888.3	Malawi	0.39	male	noneuropean
+X4489408.3	Venezuela	1	male	noneuropean
+X4489565.3	United States of America	43	male	western
+X4489810.3	United States of America	46	female	western
+X4489370.3	Venezuela	39	male	noneuropean
+X4489829.3	Malawi	unknown	female	noneuropean
+X4489580.3	United States of America	51	male	western
+X4489609.3	United States of America	14	male	western
+X4489526.3	United States of America	0.58	female	western
+X4489557.3	United States of America	57	male	western
+X4489455.3	United States of America	28	female	western
+X4489593.3	United States of America	13	male	western
+X4489614.3	United States of America	15	male	western
+X4489583.3	United States of America	14	female	western
+X4489578.3	United States of America	14	male	western
+X4489472.3	United States of America	56	female	western
+X4489693.3	United States of America	47	female	western
+X4489914.3	Malawi	28	female	noneuropean
+X4489827.3	Malawi	2.39	female	noneuropean
+X4489873.3	Malawi	unknown	female	noneuropean
+X4489524.3	United States of America	0.5	female	western
+X4489800.3	United States of America	15	male	western
+X4489484.3	United States of America	unknown	female	western
+X4489442.3	Venezuela	7	male	noneuropean
+X4489551.3	United States of America	0.33	male	western
+X4489707.3	United States of America	10	male	western
+X4489779.3	United States of America	16	female	western
+X4489422.3	Venezuela	24	female	noneuropean
+X4489824.3	Malawi	0.76	male	noneuropean
+X4489446.3	Venezuela	11	female	noneuropean
+X4489787.3	United States of America	16	female	western
+X4489494.3	United States of America	6	male	western
+X4489378.3	Venezuela	10	female	noneuropean
+X4489536.3	United States of America	0.42	male	western
+X4489500.3	United States of America	34	female	western
+X4489666.3	United States of America	47	male	western
+X4489752.3	United States of America	53	female	western
+X4489825.3	Malawi	unknown	female	noneuropean
+X4489840.3	Malawi	0.44	male	noneuropean
+X4489803.3	United States of America	13	male	western
+X4489356.3	Venezuela	2	male	noneuropean
+X4489731.3	United States of America	15	female	western
+X4489412.3	Venezuela	2	male	noneuropean
+X4489476.3	United States of America	26	female	western
+X4489391.3	Venezuela	80	male	noneuropean
+X4489786.3	United States of America	16	female	western
+X4489548.3	United States of America	0.25	male	western
+X4489681.3	United States of America	50	male	western
+X4489872.3	Malawi	0.11	female	noneuropean
+X4489567.3	United States of America	13	female	western
+X4489697.3	United States of America	36	female	western
+X4489519.3	United States of America	0.42	male	western
+X4489875.3	Malawi	0.8	female	noneuropean
+X4489618.3	United States of America	15	male	western
+EU3	Italy	1	female	western
+BF4	Burkina Faso	2	male	noneuropean
+BF16	Burkina Faso	1	female	noneuropean
+EU8	Italy	5	male	western
+EU21	Italy	3	female	western
+EU6	Italy	6	male	western
+BF6	Burkina Faso	6	female	noneuropean
+BF9	Burkina Faso	6	male	noneuropean
+EU5	Italy	5	male	western
+BF12	Burkina Faso	6	male	noneuropean
+BF11	Burkina Faso	5	male	noneuropean
+BF8	Burkina Faso	6	male	noneuropean
+EU13	Italy	5	male	western
+BF13	Burkina Faso	6	male	noneuropean
+BF3	Burkina Faso	2	female	noneuropean
+EU10	Italy	5	male	western
+BF17	Burkina Faso	5	female	noneuropean
+BF7	Burkina Faso	6	male	noneuropean
+BF10	Burkina Faso	6	female	noneuropean
+EU17	Italy	5	male	western
+EU20	Italy	5	female	western
+EU12	Italy	6	male	western
+BF15	Burkina Faso	6	male	noneuropean
+EU1	Italy	2	male	western
+BF2	Burkina Faso	5	male	noneuropean
+EU18	Italy	3	female	western
+EU11	Italy	5	male	western
+EU19	Italy	4	female	western
+EU2	Italy	1	female	western
