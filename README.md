@@ -5,6 +5,8 @@ Data folder
 -----------
 Each (sub)folder contains the following files:
  * otu_table.txt: the OTU table (rarefied) file
+ * otu_table_taxonomy.txt: the OTU table (rarefied) file with taxonomic information.
+   OTUs with the same taxa are collapsed toghether. 	
  * sample_data.txt: the file containing the sample metadata
  * taxonomy.txt: the file containing the taxonomy information for each OTU
  * tree.tre: the phylogenetic tree in newick format
